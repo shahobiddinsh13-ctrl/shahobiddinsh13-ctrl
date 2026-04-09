@@ -12,5 +12,6 @@
 
 ### 🔗 Let's connect
 - [Instagram]https://www.instagram.com/the_woxv/
+- [LinkedIn]https://www.linkedin.com/feed/
 ---
 
