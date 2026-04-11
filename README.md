@@ -15,6 +15,5 @@
 - [Instagram]https://www.instagram.com/the_woxv/
 - [LinkedIn]https://www.linkedin.com/feed/
 - [Portfole.sh]https://porfole-eta.vercel.app/
-- [notion]https://www.notion.so/ai
 ---
 
